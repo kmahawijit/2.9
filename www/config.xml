@@ -99,10 +99,3 @@
     -->
 
 </widget>
-<widget>
-        <preference name="NetworkStatus" value="true" />
-        <plugins>
-            <plugin name="NetworkStatus" value="CDVConnection" />
-        </plugins>
-        <access origin="*" />
-    </widget>
